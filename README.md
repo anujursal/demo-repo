@@ -1,3 +1,3 @@
 #Demo 
 
-Learning GIT is amazing.
+Learning GIT is amazing!
